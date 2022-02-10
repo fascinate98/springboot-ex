@@ -1,7 +1,7 @@
 package com.poscoict.springbootex;
 
-import org.apache.catalina.core.ApplicationContext;
-import org.aspectj.asm.HierarchyWalker;
+
+
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
